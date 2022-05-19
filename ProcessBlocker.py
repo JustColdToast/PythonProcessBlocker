@@ -1,8 +1,6 @@
 import psutil
-import threading
 import time
 import os
-import sys
 
 
 # Application to Block a provided exe/process name from running
